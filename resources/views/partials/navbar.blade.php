@@ -73,7 +73,7 @@
         <ul class="d-xs-none navbar-left navbar-main">
             <li>
                 <i class="fa fa-home"></i>&nbsp;
-                <a class="parent-item" href="/admin">NHÓM & LOẠI</a>&nbsp;
+                <a class="parent-item" href="/nhom-loai/nhom-nvl">NHÓM & LOẠI</a>&nbsp;
             </li>
             <li>
                 <i class="fa fa-bug"></i>&nbsp;
