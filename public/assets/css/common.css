@@ -1,0 +1,45 @@
+.sub-menu {
+	max-height: 500px;
+    width: 100%;
+    overflow-y: scroll;
+}
+li.nav-item.sidebar-title {
+    background-color: #1c262f;
+    color: #FFFFFF;
+    padding: 10px !important;
+    font-weight: 600;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+.navbar-main {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    list-style: none;
+    /* background-color: #e9ecef; */
+    /* border-radius: .25rem; */
+    /*padding: 15px 0;*/
+}
+.navbar-main li {
+    padding: 17px 5px;
+    width: 150px;
+    text-align: center;
+}
+.table thead th {
+    text-align: center;
+    text-transform: uppercase;
+}
