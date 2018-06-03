@@ -27,12 +27,12 @@
                     <ul class="sub-menu">
                         <li class="nav-item  ">
                             <a href="ui_buttons.html" class="nav-link ">
-                                <span class="title">Đồ ăn</span>
+                                <span class="title">Thêm khoản chi</span>
                             </a>
                         </li>
                         <li class="nav-item  ">
                             <a href="ui_tabs_accordions_navs.html" class="nav-link ">
-                                <span class="title">Thức uống</span>
+                                <span class="title">Thêm khoản thu</span>
                             </a>
                         </li>
                     </ul>
@@ -46,12 +46,12 @@
                     <ul class="sub-menu">
                         <li class="nav-item  ">
                             <a href="ui_buttons.html" class="nav-link ">
-                                <span class="title">Đồ ăn</span>
+                                <span class="title">Thêm nhận hàng</span>
                             </a>
                         </li>
                         <li class="nav-item  ">
                             <a href="ui_tabs_accordions_navs.html" class="nav-link ">
-                                <span class="title">Thức uống</span>
+                                <span class="title">Thêm trả hàng</span>
                             </a>
                         </li>
                     </ul>
@@ -65,12 +65,12 @@
                     <ul class="sub-menu">
                         <li class="nav-item  ">
                             <a href="ui_buttons.html" class="nav-link ">
-                                <span class="title">Đồ ăn</span>
+                                <span class="title">Đầu ca</span>
                             </a>
                         </li>
                         <li class="nav-item  ">
                             <a href="ui_tabs_accordions_navs.html" class="nav-link ">
-                                <span class="title">Thức uống</span>
+                                <span class="title">Kết thúc ca</span>
                             </a>
                         </li>
                     </ul>
