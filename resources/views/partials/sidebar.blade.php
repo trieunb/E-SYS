@@ -144,7 +144,7 @@
                     </ul>
                 </li>
                 <li class="nav-item  ">
-                    <a href="#" class="nav-link nav-toggle"> <i class="material-icons">accessible</i>
+                    <a href="#" class="nav-link nav-toggle"> <i class="material-icons">monetization_on</i>
                         <span class="title">CÁC LOẠI KHOẢN THU</span> <span class="arrow"></span>
                     </a>
                     <ul class="sub-menu">
@@ -159,7 +159,7 @@
                     </ul>
                 </li>
                 <li class="nav-item  ">
-                    <a href="#" class="nav-link nav-toggle"> <i class="material-icons">hotel</i>
+                    <a href="#" class="nav-link nav-toggle"> <i class="material-icons">monetization_on</i>
                         <span class="title">CÁC LOẠI KHOẢN CHI</span> <span class="arrow"></span>
                     </a>
                     <ul class="sub-menu">
@@ -174,7 +174,7 @@
                     </ul>
                 </li>
                 <li class="nav-item  ">
-                    <a href="#" class="nav-link nav-toggle"> <i class="material-icons">monetization_on</i>
+                    <a href="#" class="nav-link nav-toggle"> <i class="material-icons">hotel</i>
                         <span class="title">ĐI TRỄ VỀ SỚM</span> <span class="arrow"></span>
                     </a>
                     <ul class="sub-menu">
