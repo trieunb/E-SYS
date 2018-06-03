@@ -12,7 +12,7 @@
                 <div class="page-title">DS Nhóm Nguyên Vật Liệu</div>
             </div>
             <ol class="breadcrumb page-breadcrumb pull-right">
-                <li><i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="/nhom-loai/nhom-nvl">NHÓM NGUYÊN VL</a>&nbsp;<i class="fa fa-angle-right"></i>
+                <li><i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="/nhom-loai/ncc">NHÓM NGUYÊN VL</a>&nbsp;<i class="fa fa-angle-right"></i>
                 </li>
                 <li class="active">DS Nhóm Nguyên Vật Liệu</li>
             </ol>
@@ -32,7 +32,7 @@
 	                <div class="row">
 	                    <div class="col-md-6 col-sm-6 col-xs-6">
 	                        <div class="btn-group">
-	                            <a href="/nhom-loai/nhom-nvl/create" id="addRow1" class="btn btn-info">
+	                            <a href="/nhom-loai/ncc/create" id="addRow1" class="btn btn-info">
 	                                Thêm Mới <i class="fa fa-plus"></i>
 	                            </a>
 	                        </div>
@@ -69,7 +69,10 @@
 	                                </label> -->
 	                            </th>
 	                            <th width="10%"> MS Nhóm </th>
-	                            <th> Tên nhóm nguyên vật liệu </th>
+	                            <th> Tên ncc </th>
+	                            <th> Số ĐT </th>
+	                            <th> Số ĐT 2 </th>
+	                            <th> Địa chỉ </th>
 	                            <th width="10%"> Actions </th>
 	                            
 	                        </tr>
@@ -84,10 +87,19 @@
 	                            </td>
 	                            <td> 1 </td>
 	                            <td>
-	                                Hải sản
+	                                Cô Lứa
+	                            </td>
+	                            <td>
+	                                05103910799
+	                            </td>
+	                            <td>
+	                                0903507464
+	                            </td>
+	                            <td>
+	                               Chợ Hội An
 	                            </td>
 	                            <td class="valigntop">
-                                    <a href="/nhom-loai/nhom-nvl/edit/1" class="btn btn-tbl-edit btn-xs">
+                                    <a href="/nhom-loai/edit/1" class="btn btn-tbl-edit btn-xs">
 										<i class="fa fa-pencil"></i>
 									</a>
 									<button class="btn btn-tbl-delete btn-xs">
@@ -95,19 +107,28 @@
 									</button>
 	                            </td>
 	                        </tr>
-	                        <tr class="odd gradeX">
+	                         <tr class="even gradeX">
 	                            <td>
 	                                <label class="rt-chkbox rt-chkbox-single rt-chkbox-outline">
-	                                    <input type="checkbox" class="checkboxes" value="2" />
+	                                    <input type="checkbox" class="checkboxes" value="1" />
                                          <span></span>
 	                                </label>
 	                            </td>
 	                            <td> 2 </td>
 	                            <td>
-	                                Rau củ quả
+	                                Cô Vân RCQ
+	                            </td>
+	                            <td>
+	                                0905596634
+	                            </td>
+	                            <td>
+	                                0905596634
+	                            </td>
+	                            <td>
+	                               Chợ Hội An
 	                            </td>
 	                            <td class="valigntop">
-                                    <a href="/nhom-loai/nhom-nvl/edit/2" class="btn btn-tbl-edit btn-xs">
+                                    <a href="/nhom-loai/edit/1" class="btn btn-tbl-edit btn-xs">
 										<i class="fa fa-pencil"></i>
 									</a>
 									<button class="btn btn-tbl-delete btn-xs">

@@ -11,27 +11,27 @@
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type="text/css" />
 	<!-- icons -->
-    <link href="../assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="/assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	<!--bootstrap -->
-	<link href="../assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link href="../assets/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" rel="stylesheet" type="text/css" />
+	<link href="/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" rel="stylesheet" type="text/css" />
     <!-- Material Design Lite CSS -->
-	<link href="../assets/plugins/material/material.min.css" rel="stylesheet" >
-	<link href="../assets/css/material_style.css" rel="stylesheet">
+	<link href="/assets/plugins/material/material.min.css" rel="stylesheet" >
+	<link href="/assets/css/material_style.css" rel="stylesheet">
 	<!-- morris chart -->
-    <link href="../assets/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
+    <!-- <link href="/assets/plugins/morris/morris.css" rel="stylesheet" type="text/css" /> -->
     <!-- data tables -->
-    <link href="../assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css"/>
+    <link href="/assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css"/>
 	<!-- Theme Styles -->
-    <link href="../assets/css/style.css" rel="stylesheet" type="text/css" />
-    <link href="../assets/css/plugins.min.css" rel="stylesheet" type="text/css" />
-    <link href="../assets/css/responsive.css" rel="stylesheet" type="text/css" />
-    <link href="../assets/css/theme-color.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/plugins.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/responsive.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/theme-color.css" rel="stylesheet" type="text/css" />
     
 	<!-- favicon -->
-    <link rel="shortcut icon" href="../assets/img/favicon.ico" />
-    <link href="../assets/css/common.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" />
+    <link href="/assets/css/common.css" rel="stylesheet" type="text/css" />
     @yield('style')
 </head>
 <!-- END HEAD -->
@@ -62,28 +62,28 @@
         <!-- end footer -->
     </div>
     <!-- start js include path -->
-    <script src="../assets/plugins/jquery/jquery.min.js" ></script>
-	<script src="../assets/plugins/popper/popper.min.js" ></script>
-    <script src="../assets/plugins/jquery-blockui/jquery.blockui.min.js" ></script>
-	<script src="../assets/plugins/jquery-slimscroll/jquery.slimscroll.js"></script>
+    <script src="/assets/plugins/jquery/jquery.min.js" ></script>
+	<script src="/assets/plugins/popper/popper.min.js" ></script>
+    <script src="/assets/plugins/jquery-blockui/jquery.blockui.min.js" ></script>
+	<script src="/assets/plugins/jquery-slimscroll/jquery.slimscroll.js"></script>
     <!-- bootstrap -->
-    <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" ></script>
+    <script src="/assets/plugins/bootstrap/js/bootstrap.min.js" ></script>
     <!-- counterup -->
-    <!-- <script src="../assets/plugins/counterup/jquery.waypoints.min.js" ></script> -->
-    <!-- <script src="../assets/plugins/counterup/jquery.counterup.min.js" ></script> -->
+    <!-- <script src="/assets/plugins/counterup/jquery.waypoints.min.js" ></script> -->
+    <!-- <script src="/assets/plugins/counterup/jquery.counterup.min.js" ></script> -->
     <!-- data tables -->
-    <script src="../assets/plugins/datatables/jquery.dataTables.min.js" ></script>
-    <script src="../assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.js" ></script>
+    <script src="/assets/plugins/datatables/jquery.dataTables.min.js" ></script>
+    <script src="/assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.js" ></script>
     <!-- Common js-->
-	<script src="../assets/js/app.js" ></script>
-    <script src="../assets/js/layout.js" ></script>
-    <script src="../assets/js/theme-color.js" ></script>
+	<script src="/assets/js/app.js" ></script>
+    <script src="/assets/js/layout.js" ></script>
+    <script src="/assets/js/theme-color.js" ></script>
     <!-- material -->
-    <script src="../assets/plugins/material/material.min.js"></script>
+    <script src="/assets/plugins/material/material.min.js"></script>
     <!-- morris chart -->
-    <!-- <script src="../assets/plugins/morris/morris.min.js" ></script> -->
-    <!-- <script src="../assets/plugins/morris/raphael-min.js" ></script> -->
-    <!-- <script src="../assets/js/pages/chart/morris/morris-home-data.js" ></script> -->
+    <!-- <script src="/assets/plugins/morris/morris.min.js" ></script> -->
+    <!-- <script src="/assets/plugins/morris/raphael-min.js" ></script> -->
+    <!-- <script src="/assets/js/pages/chart/morris/morris-home-data.js" ></script> -->
      <!-- end js include path -->
      @yield('script')
 </body>

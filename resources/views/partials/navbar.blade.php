@@ -3,7 +3,7 @@
         <!-- logo start -->
         <div class="page-logo">
             <a href="/admin">
-            <img alt="" src="../assets/img/logo.png">
+            <img alt="" src="/assets/img/logo.png">
             <span class="logo-default" >Sunray</span> </a>
         </div>
         <!-- logo end -->
@@ -187,7 +187,7 @@
                                 <li>
                                     <a href="#">
                                         <span class="photo">
-                                        	<img src="../assets/img/doc/doc2.jpg" class="img-circle" alt=""> </span>
+                                        	<img src="/assets/img/doc/doc2.jpg" class="img-circle" alt=""> </span>
                                         <span class="subject">
                                         	<span class="from"> Sarah Smith </span>
                                         	<span class="time">Just Now </span>
@@ -198,7 +198,7 @@
                                 <li>
                                     <a href="#">
                                         <span class="photo">
-                                        	<img src="../assets/img/doc/doc3.jpg" class="img-circle" alt=""> </span>
+                                        	<img src="/assets/img/doc/doc3.jpg" class="img-circle" alt=""> </span>
                                         <span class="subject">
                                         	<span class="from"> John Deo </span>
                                         	<span class="time">16 mins </span>
@@ -209,7 +209,7 @@
                                 <li>
                                     <a href="#">
                                         <span class="photo">
-                                        	<img src="../assets/img/doc/doc1.jpg" class="img-circle" alt=""> </span>
+                                        	<img src="/assets/img/doc/doc1.jpg" class="img-circle" alt=""> </span>
                                         <span class="subject">
                                         	<span class="from"> Rajesh </span>
                                         	<span class="time">2 hrs </span>
@@ -220,7 +220,7 @@
                                 <li>
                                     <a href="#">
                                         <span class="photo">
-                                        	<img src="../assets/img/doc/doc8.jpg" class="img-circle" alt=""> </span>
+                                        	<img src="/assets/img/doc/doc8.jpg" class="img-circle" alt=""> </span>
                                         <span class="subject">
                                         	<span class="from"> Lina Smith </span>
                                         	<span class="time">40 mins </span>
@@ -231,7 +231,7 @@
                                 <li>
                                     <a href="#">
                                         <span class="photo">
-                                        	<img src="../assets/img/doc/doc5.jpg" class="img-circle" alt=""> </span>
+                                        	<img src="/assets/img/doc/doc5.jpg" class="img-circle" alt=""> </span>
                                         <span class="subject">
                                         	<span class="from"> Jacob Ryan </span>
                                         	<span class="time">46 mins </span>
@@ -250,7 +250,7 @@
 					<!-- start manage user dropdown -->
 					<li class="dropdown dropdown-user">
                     <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-                        <img alt="" class="img-circle " src="../assets/img/dp.jpg" />
+                        <img alt="" class="img-circle " src="/assets/img/dp.jpg" />
                     </a>
                     <ul class="dropdown-menu dropdown-menu-default">
                         <li>

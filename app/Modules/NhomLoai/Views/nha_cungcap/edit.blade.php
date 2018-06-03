@@ -10,7 +10,7 @@
                 <div class="page-title">Thêm Nhóm Nguyên Vật Liệu</div>
             </div>
             <ol class="breadcrumb page-breadcrumb pull-right">
-                <li><i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="/nhom-loai/nhom-nvl">NHÓM NGUYÊN VL</a>&nbsp;<i class="fa fa-angle-right"></i>
+                <li><i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="/nhom-loai/create">NHÓM NGUYÊN VL</a>&nbsp;<i class="fa fa-angle-right"></i>
                 </li>
                 <li class="active">Thêm Nhóm Nguyên Vật Liệu</li>
             </ol>

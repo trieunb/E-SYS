@@ -8,9 +8,9 @@
                     </div>
                 </li>
                 <li class="sidebar-user-panel">
-                    <div class="user-panel">
+                    <div class="user-panel">..
                         <div class="pull-left image">
-                            <img src="../assets/img/dp.jpg" class="img-circle user-img-circle" alt="User Image" />
+                            <img src="/assets/img/dp.jpg" class="img-circle user-img-circle" alt="User Image" />
                         </div>
                         <div class="pull-left info">
                             <p> Dr. Emily</p>
@@ -26,12 +26,12 @@
                     </a>
                     <ul class="sub-menu">
                         <li class="nav-item  ">
-                            <a href="/nhom-loai/create" class="nav-link ">
+                            <a href="/nhom-loai/nhom-nvl/create" class="nav-link ">
                                 <span class="title">Thêm nhóm NVL</span>
                             </a>
                         </li>
                         <li class="nav-item  ">
-                            <a href="/nhom-loai" class="nav-link ">
+                            <a href="/nhom-loai/nhom-nvl" class="nav-link ">
                                 <span class="title">Danh sách nhóm NVL</span>
                             </a>
                         </li>
@@ -119,11 +119,11 @@
                     </a>
                     <ul class="sub-menu">
                         <li class="nav-item  ">
-                            <a href="all_doctors.html" class="nav-link "> <span class="title">Thêm nhà cung cấp</span>
+                            <a href="/nhom-loai/ncc/create" class="nav-link "> <span class="title">Thêm nhà cung cấp</span>
                             </a>
                         </li>
                         <li class="nav-item  ">
-                            <a href="add_doctor.html" class="nav-link "> <span class="title">DS nhà cung cấp</span>
+                            <a href="/nhom-loai/ncc" class="nav-link "> <span class="title">DS nhà cung cấp</span>
                             </a>
                         </li>
                     </ul>
